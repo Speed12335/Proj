@@ -1,4 +1,4 @@
-import tim
+import time
 
 def slowType(text):
     for char in text:
